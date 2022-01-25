@@ -41,13 +41,41 @@ a {
 }
 
 .Herotext {
-    font-size: 48px;
+    font-size: 45px;
     font-size: 800;
     color: #F9FAF8;
 }
 
 .undertext {
-    font-size: 18px;
+    font-size: 15px;
     color: #E5E7EB;
+
+}
+
+.containertwo {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-bottom: 30px;
     
+}
+
+
+
+#btn {
+
+    padding: 3px 15px 3px 15px;
+    background-color: #3882F6;
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+.hero_under {
+    padding-left: 24px;
+}
+
+#img {
+    padding-right: 24px;
 }
