@@ -104,42 +104,32 @@ footer {
 .title {
     text-align: center;
     color: #1F2937;
+    padding-top: 20px;
 }
 
-.square1, .square2, .square3, .square4 {
-    border: 2px solid #3882F6;
-    height: 100px;
-    width: 100px;
-    
-}
-
-.square_container {
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-}
 
 section {
     min-height: 100vh;
 }
 
 
+.box {
+    width: 120px;
+}
 
+.box_undertext {
+    font-size: small;
+    text-align: center;
+}
 
-
-
-
-
-
-
-
-
-
-
-/*
-.text_container {
+.box_container {
     display: flex;
     justify-content: center;
-    font-size: small;
-    
+    gap: 70px;
+    padding-top: 30px;
 }
+
+
+
+
+
