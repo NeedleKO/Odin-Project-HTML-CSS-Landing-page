@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    
     }
 
 
@@ -8,6 +9,13 @@ html {
 
     font-family: 'Roboto', sans-serif;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+    
+}
+
 
 header {
     background-color: #1F2937;
@@ -79,3 +87,30 @@ a {
 #img {
     padding-right: 24px;
 }
+
+footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.title {
+    text-align: center;
+}
+
+.square1, .square2, .square3, .square4 {
+    border: 2px solid #3882F6;
+    height: 100px;
+    width: 100px;
+    
+}
+
+.square_container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
