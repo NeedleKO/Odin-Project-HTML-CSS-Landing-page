@@ -51,7 +51,7 @@ a {
 
 .Herotext {
     font-size: 45px;
-    font-size: 800;
+    font-size:900;
     color: #F9FAF8;
 }
 
@@ -136,3 +136,24 @@ section {
 }
 
 
+.quote_wrapper {
+    background-color: #E5E7EB;
+    text-align: center;
+    margin-top: 30px;
+    padding: 100px;
+    
+}
+
+.inspiring_quote {
+    font-size: 25px;
+    color: #8c8c8c;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.autors {
+    padding-left: 350px;
+    color: #1F2937;
+    font-weight: 900;
+    padding-top: 20px;
+}
