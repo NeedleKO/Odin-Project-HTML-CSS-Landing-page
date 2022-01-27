@@ -87,6 +87,7 @@ a {
 
 #img {
     padding-right: 24px;
+    
 }
 
 footer {
@@ -114,7 +115,7 @@ section {
 
 
 .box {
-    width: 120px;
+    width: 123px;
 }
 
 .box_undertext {
@@ -130,6 +131,8 @@ section {
 }
 
 
-
+.round_corners_img {
+    border-radius: 7%;
+}
 
 
