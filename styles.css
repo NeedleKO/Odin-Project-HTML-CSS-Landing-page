@@ -98,6 +98,8 @@ footer {
     align-items: center;
     margin-top: auto;
     padding: 15px;
+    font-size: 10;
+    padding: 20px;
     
     
 }
@@ -127,7 +129,8 @@ section {
     display: flex;
     justify-content: center;
     gap: 70px;
-    padding-top: 30px;
+    padding-top: 40px;
+    padding: 40px;
 }
 
 
@@ -140,7 +143,7 @@ section {
     background-color: #E5E7EB;
     text-align: center;
     margin-top: 30px;
-    padding: 100px;
+    padding: 80px;
     
 }
 
@@ -156,4 +159,56 @@ section {
     color: #1F2937;
     font-weight: 900;
     padding-top: 20px;
+}
+
+.call_to_action {
+    background-color: #3882F6;
+    height: 80px;
+    
+    width: 600px;
+
+}
+
+.wrappprr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 45px;
+    color: white;
+    margin-top: 60px;
+    
+    
+    
+}
+
+.buttn {
+    padding: 1px 13px 2px 13px;
+    background-color: #3882F6;
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid white;
+    font-size: small;
+    
+    
+}
+
+.testttt {
+    display: flex;
+}
+
+.call_to_action {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+.small_txt {
+    font-size: 10px;
+}
+
+.bttn_div {
+    padding-left: 50px;
 }
