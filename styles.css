@@ -102,6 +102,7 @@ footer {
     padding: 20px;
     
     
+    
 }
 
 .title {
@@ -165,6 +166,7 @@ section {
     background-color: #3882F6;
     height: 80px;
     
+    
     width: 600px;
 
 }
@@ -173,9 +175,9 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 45px;
+    
     color: white;
-    margin-top: 60px;
+    padding: 50px;
     
     
     
